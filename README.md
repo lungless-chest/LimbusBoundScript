@@ -1,2 +1,3 @@
 # LimbusBoundScript
-Unity Bound Expansion Script
+NOT MY FILE
+Use this file in unity to make new spritesheets idk
